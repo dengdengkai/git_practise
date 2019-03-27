@@ -11,3 +11,5 @@ Creating a new branch is quick & simple.
 =======
 >>>>>>> featurel
 Creating a new branch is quick and simple.
+
+a new way merge 
